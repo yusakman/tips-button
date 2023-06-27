@@ -1,0 +1,2 @@
+export const myAddress = "0x5E63ddAe9dAe73BE06cD45843B2036D58BF24BAA" // Put your address here
+export const tokenAddress = "0xd497dF41dd9AB721CD8C23DC3CE4aD9F28E5Fd1F" // Put the tokens address you want to receive
